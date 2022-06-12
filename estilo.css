@@ -1,0 +1,55 @@
+h1{
+	text-align: center;
+}
+table{
+	margin-top: 50px;
+	caption-side: bottom;
+	margin-left: auto;
+	margin-right: auto;
+	border-collapse: collapse;
+}
+th{
+	background-color: black;
+	color: white;
+}
+td, th{
+	border: 2px solid black;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.imagen{ 
+	width: 500px;
+	height: 500px;
+	position: absolute;
+
+	border: 5px solid  #ff5c3d;
+	border-radius: 10px;
+}
+body{
+	background-color: brown; 
+}
+h1{
+	color: white; 
+}
+a{
+	font-size: 25px;
+	color: yellow; 
+}
+.texto{
+	font-family: Arial, sans-serif;
+	font-size: 15px;
+	font-weight: 500px;
+	color: pink; 
+	width: 500px;
+	height: 500px;
+	position: absolute;
+	text-align: justify;
+	background-color: black; 
+	border: 5px solid blue;
+	border-radius: 10px;
+	line-height: 1.5;
+	opacity: 50%;
+}
+
